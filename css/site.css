@@ -62,11 +62,6 @@ word-wrap: break-word;
 }
 
 
-.navbar .navbar-nav > li > a:hover, .navbar .navbar-nav > li > a:focus {
-    color: var(--secondary-color);
-}
-
-
 main>.container {
     padding: 60px 15px 0;
 }
